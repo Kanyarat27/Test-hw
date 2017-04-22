@@ -2,7 +2,7 @@
 using System.Collections;
 
 [System.Serializable]
-public class Done_Boundary 
+public class Boundary 
 {
 	public float xMin, xMax, zMin, zMax;
 }
